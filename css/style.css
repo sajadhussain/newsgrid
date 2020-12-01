@@ -296,3 +296,7 @@ margin-bottom: 0.5rem;
     background: #eee;
     padding:0.5rem;
 }
+
+#article .meta .category{
+    margin-top:0.5rem;
+}
