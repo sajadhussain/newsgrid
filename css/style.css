@@ -286,3 +286,13 @@ margin-bottom: 0.5rem;
 #main-footer .footer-container input[type='submit']{
     width: 90%;
 }
+
+/* article */
+
+#article .meta{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #eee;
+    padding:0.5rem;
+}
