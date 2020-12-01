@@ -125,7 +125,9 @@ margin-bottom: 0.5rem;
 .bg-sondary a{
     color:white;
 }
-
+.l-heading{
+    font-size: 3rem ;
+}
 .list li{
     padding: .5rem 0;
     border-bottom: #555 dotted 1px;
